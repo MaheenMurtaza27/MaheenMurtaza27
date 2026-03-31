@@ -1,17 +1,57 @@
-# 💫 About Me:
-Hello, I’m Maheen Murtaza 👋<br>💻 Passionate Web Developer<br>🌱 Currently learning and working with HTML & CSS<br>✨ Love creating clean, simple, and creative web designs<br><br>🚀 On a journey to become a skilled developer and build amazing projects
+<!-- ========== ANIMATED TYPING HEADER ========== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00A7F7&size=35&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Maheen;Web+Development+Student;Always+Learning+New+Things!">
+</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m4heenxy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MaheenMurtaza27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheensiyal27@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h3 align="center">A passionate Web Development student from Pakistan</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maheenmurtazaa27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ========== SOCIAL BADGES ========== -->
+<p align="center">
+  <a href="mailto:maheenmurtaza27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/m4heenxy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/MaheenMurtaza27" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ========== ABOUT ME ========== -->
+### 👨‍💻 About Me
+- 🔭 I’m currently doing **Web Development**
+- 🌱 Learning **HTML · CSS · Frontend Development**
+- 💬 Ask me about **HTML, CSS**
+- 📫 Reach me at: **maheensiyal27@gmail.com**
+- 🌐 Check out my portfolio project: https://MaheenMurtaza27.github.io/
+
+---
+
+<!-- ========== SKILL BADGES ========== -->
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+<!-- ========== GITHUB SNAKE ANIMATION ========== -->
+### 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/Muhammad-SE-Eng/Muhammad-SE-Eng/output/snake-dark.svg)
+
+
+---
+
+<!-- ========== FOOTER ========== -->
+### 🚀 Thanks for visiting my profile!
+<p align="center">
+  <img src="https://img.shields.io/badge/Keep%20Coding-blue?style=for-the-badge" />
+</p>
