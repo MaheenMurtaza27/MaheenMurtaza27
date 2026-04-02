@@ -25,8 +25,8 @@
 <!-- ========== ABOUT ME ========== -->
 ### 👨‍💻 About Me
 - 🔭 I’m currently doing **Web Development**
-- 🌱 Learning **HTML · CSS · Frontend Development**
-- 💬 Ask me about **HTML, CSS**
+- 🌱 Learning **HTML · CSS · JavaScript . Frontend Development**
+- 💬 Ask me about **HTML, CSS, Java**
 - 📫 Reach me at: **maheensiyal27@gmail.com**
 - 🌐 Check out my portfolio project: https://MaheenMurtaza27.github.io/
 
